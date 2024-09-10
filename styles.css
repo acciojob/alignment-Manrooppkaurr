@@ -1,1 +1,17 @@
-/*  your css code here. If applicable */
+h1{
+	text-align:center;
+}
+.right{text-align:right;
+}
+#t12,#t22,#t23{
+	text-align:center;
+}
+table{
+	margin-block:30px;
+}
+#t-image{
+	width:30%;
+}
+.row-h{
+	height:30px;
+}
